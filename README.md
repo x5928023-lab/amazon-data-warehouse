@@ -88,5 +88,27 @@ These are core skills required for **Data Analyst, BI Engineer, and Data Enginee
 - Data Warehousing concepts (Star Schema, SCD, Fact/Dimension modeling)  
 
 ---
+## Results
 
-## Project Structure
+The final system provides:
+
+- Structured analytics-ready datasets  
+- Efficient querying of business metrics  
+- Revenue and order trend analysis  
+- Customer value tracking  
+- Improved visibility into operational performance  
+
+---
+
+## Future Improvements
+
+- Automate ETL pipeline scheduling (Airflow / cron jobs)  
+- Integrate real-time data ingestion  
+- Expand dashboard with more KPIs  
+- Add predictive analytics (forecasting demand or revenue)  
+
+---
+
+## Author
+
+Susan Jia
